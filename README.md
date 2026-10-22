@@ -1,10 +1,10 @@
 # Hey, I'm Cenk 👋
 
-Frontend developer based in Kuşadası, Turkey · Building web apps for real businesses · Freelance available
+Software Specialist based in Kuşadası, Turkey · QA testing & frontend development · Freelance available
 
 ## About me
 
-I'm a frontend developer focused on building clean, fast, and production-ready web interfaces. I work with modern tooling — primarily React and Next.js — and I've shipped real products used by businesses daily. I combine AI-assisted development with strong fundamentals to move fast without cutting corners.
+I test and build web applications. I care about finding what breaks, reproducing it clearly, and writing reports that developers can act on right away. On the build side I work mainly with React and Next.js, and I've shipped real products used by businesses daily. I combine AI-assisted work with strong fundamentals to move fast without cutting corners.
 
 ## Tech stack
 
@@ -17,10 +17,16 @@ I'm a frontend developer focused on building clean, fast, and production-ready w
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ## What I'm working on
 
-Currently employed full-time as a frontend developer while taking on freelance projects on the side. Recently shipped a production digital menu system for F&B businesses powered by Google Sheets — live and in use.
+- **Software Specialist since February 2025.** Started in QA testing and monitoring, then moved into small development tasks (REST APIs, JSON). Today I mostly own testing and test reporting for web apps and AI products.
+- **Freelance:** frontend and WordPress projects on the side. Recently shipped a production digital menu system for F&B businesses powered by Google Sheets, live and in use.
+
+## Open source
+
+- **[kalkman-code/beamer](https://github.com/kalkman-code/beamer)**: reported and verified a Windows installer issue with Smart App Control ([#22](https://github.com/kalkman-code/beamer/issues/22), fixed); offered a Turkish translation ([#26](https://github.com/kalkman-code/beamer/issues/26)).
 
 ## Get in touch
 
