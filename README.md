@@ -4,7 +4,7 @@ Software Specialist based in Kuşadası, Turkey · QA testing & frontend develop
 
 ## About me
 
-I test and build web applications. I care about finding what breaks, reproducing it clearly, and writing reports that developers can act on right away. On the build side I work mainly with React and Next.js, and I've shipped real products used by businesses daily. I combine AI-assisted work with strong fundamentals to move fast without cutting corners.
+I build and test web applications. I care about finding what breaks, reproducing it clearly, and writing reports that developers can act on right away. On the build side I work mainly with React and Next.js, and I've shipped real products used by businesses daily. I combine AI-assisted work with strong fundamentals to move fast without cutting corners.
 
 ## Tech stack
 
@@ -21,7 +21,7 @@ I test and build web applications. I care about finding what breaks, reproducing
 
 ## What I'm working on
 
-- **Software Specialist since February 2025.** Started in QA testing and monitoring, then moved into small development tasks (REST APIs, JSON). Today I mostly own testing and test reporting for web apps and AI products.
+- **Software Specialist since February 2025.** Started in QA testing and monitoring, then moved into development work (REST APIs, JSON). Today I do both: building software, and owning testing and test reporting for web apps and AI products.
 - **Freelance:** frontend and WordPress projects on the side. Recently shipped a production digital menu system for F&B businesses powered by Google Sheets, live and in use.
 
 ## Open source
